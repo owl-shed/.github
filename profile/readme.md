@@ -8,10 +8,10 @@ make knockoffs of my own projects...?
 
 Yeah, basically I already have an organisation
 *([Owl's domain](https://github.com/Owl-Domain))*, that's intended for making
-high quality QoL software, but uhh, it's kinda empty and it'll take me a while
-to make and redesign everything that I want for that organisation and
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA it's ***so stressful***, so this is basically
-like a mini vacation for me to have some fun and make some QoL software that
+high quality QoL software, but uhh, it's kinda empty, and it'll take me a while
+to make and redesign everything that I want for that organisation, and
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA it's ***so stressful***. So this is basically
+like a mini vacation for me to have some fun, and make some QoL software that
 I've wanted to make for ages.
 
 Yeah that's about it. Don't expect extremely high quality or polished products,
